@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying C on Fatec São Paulo and web full stack on Let's Code.
 - 💞️ I would like to collaborate with back-end projects.
 - 📫 How to reach me: gisele.gomes.santos@outlook.com
+ <https://www.linkedin.com/in/giselegomessantos/>
 
 <!---
 GiseleCoder/GiseleCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
