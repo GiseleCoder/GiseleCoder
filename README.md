@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiseleCoder
-- 👀 I’m interested in Java, JavaScript and .Net.
+- 👀 I’m interested in Java and JavaScript.
 - 🌱 I’m currently studying C on Fatec São Paulo and web full stack on Let's Code.
 - 💞️ I would like to collaborate with back-end projects.
 - 📫 How to reach me: gisele.gomes.santos@outlook.com
